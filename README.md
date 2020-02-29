@@ -1,1 +1,1 @@
-# WriteSheetForEveryOne
+# 社内の人向けの出勤簿作成Line Botです。
